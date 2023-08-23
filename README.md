@@ -1,71 +1,64 @@
-# Getting Started with Create React App
+# Alan AI News App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Web capture_23-8-2023_9318_alanainewsappmt netlify app](https://github.com/manishtmtmt/alan_ai_news_app/assets/46663132/6d570b81-e029-4bc0-a59a-46a77d4aa742)
 
-## Available Scripts
+The Alan AI News App is an AI-based project that provides users with the ability to search for various types of news, such as current events, sports, business, health, and more. The application is equipped with voice accessibility, allowing users to search for news using their voice. Additionally, the app can read news headlines aloud and open full news articles in new tabs. It is designed to be mobile-friendly, ensuring a seamless experience on various devices.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Features](#features)
+  - [News Categories](#news-categories)
+  - [Voice Accessibility](#voice-accessibility)
+- [Tech Stacks](#tech-stacks)
+- [Usage](#usage)
+  - [Installation](#installation)
+  - [Running the App](#running-the-app)
+- [Screenshots](#screenshots)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Alan AI News App is a platform that leverages AI technology to provide users with quick access to news from various categories. The integration of voice accessibility enhances user experience and convenience, making it possible to interact with the app using voice commands.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### News Categories
 
-### `npm run build`
+- Current News
+- General News
+- Sports News
+- Business News
+- Health News
+- Technology News
+- Entertainment News
+- [many more...]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Voice Accessibility
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The app features built-in voice accessibility powered by the Alan SDK tool. Users can initiate news searches and interact with the app using voice commands, making the user experience more intuitive and hands-free.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech Stacks
 
-### `npm run eject`
+- React
+- Material-UI
+- Alan SDK Tool
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Usage
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository: `git clone https://github.com/manishtmtmt/alan_ai_news_app.git`
+2. Navigate to the project directory: `cd alan_ai_news_app`
+3. Install dependencies: `npm install`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Running the App
 
-## Learn More
+1. Start the development server: `npm start`
+2. Open your browser and access the app at `http://localhost:3000`
+3. Explore the news categories and try out voice accessibility features.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screenshots
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Web capture_23-8-2023_9534_alanainewsappmt netlify app](https://github.com/manishtmtmt/alan_ai_news_app/assets/46663132/153f404d-c23c-49c3-9636-0c66710f4b92)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# alan_ai_news_app
+© 2023 Manish Tiwari
